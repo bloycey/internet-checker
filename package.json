@@ -1,0 +1,12 @@
+{
+  "name": "network-logger",
+  "version": "1.0.0",
+  "description": "Checks your internet connection and stores the results in a CSV file.",
+  "main": "index.js",
+  "author": "Andrew Bloyce",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.2.0",
+    "fast-speedtest-api": "^0.3.2"
+  }
+}
